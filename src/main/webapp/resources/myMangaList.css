@@ -1,0 +1,110 @@
+* {
+	font-family: Calibri, Arial, serif;
+}
+
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+}	
+
+.left-bar {
+	text-align: justify;
+	padding: 20px, 0 0;
+}
+
+.central {
+	text-align: justify;
+	font-family: Calibri, Arial, serif;
+	font-size: 16px;	
+}
+
+.right-bar {
+	text-align: justify;
+}
+
+footer {
+	background-color: black;
+	color: white;
+	padding: 15px;
+	text-align:center;
+	margin-bottom: 0;
+}
+
+#form {
+	margin: auto;
+	border: 1px solid black;
+	padding: 5px;
+	width: 300px;
+	text-align: center;
+}
+
+
+table {
+	margin: auto;	
+}
+
+.box {
+	background-image: url("KimiNoNaWaFalling.png");
+	background-repeat: no-repeat;
+}
+
+
+.flex-container {
+	width: 100%;
+}
+
+.image {
+	width: 160px;
+	display: inline;
+	float:left;
+}
+
+.review {
+	border: 1px solid black;
+	border-radius: 5px;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 5px 15px;
+	margin: 3px 0;
+}
+
+.mangaDetails {
+	border: 1px solid black;
+	padding: 5px;
+	text-align:center; 
+	font-size: 16px;
+	FLOAT: LEFT;
+	margin-right: 5px;
+}
+
+.summary {
+	text-align:justify;
+	padding: 0;
+	/*border: 1px solid black;*/
+}
+
+.mangaTitle{
+	text-align:justify;
+}
+
+.headPost {
+	border: 3px solid black;
+	border-radius: 5px;
+	padding: 1px 5px;
+	margin-top: 10px;
+	background-color: #e5e6eb;
+}
+
+.postComments {
+	border: 1px solid black;
+	margin: 10px 0 ;
+	border-radius: 5px;
+	box-sizing: border-box;
+	padding: 5px;
+	text-align: justify;
+}
+
+
+
+
+
